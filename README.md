@@ -63,9 +63,9 @@ This toolbox provides a GUI-based environment for applying and visualizing vario
 
 3. Make sure OpenCV is installed and linked:
 
-   Include directories
-   Library directories
-   Dependencies (opencv_worldXXX.lib)
+   - Include directories
+   - Library directories
+   - Dependencies (opencv_worldXXX.lib)
 
 4. Build and run the project.
 
