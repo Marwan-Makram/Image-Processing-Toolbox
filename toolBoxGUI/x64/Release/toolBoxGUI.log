@@ -1,0 +1,80 @@
+﻿  MyForm.cpp
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(87,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(892,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(917,31): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(917,31): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(917,31): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(917,31): warning C4244:             _Tp=float
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(917,31): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,65): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,65): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,65): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,65): warning C4244:             _Tp=float
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,65): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,49): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,49): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,49): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,49): warning C4244:             _Tp=float
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(927,49): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1223,62): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1223,62): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1223,62): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1223,62): warning C4244:             _Tp=uchar
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1223,62): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1243,33): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1243,33): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1243,33): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1243,33): warning C4244:             _Tp=float
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1243,33): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,74): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,74): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,74): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,74): warning C4244:             _Tp=float
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,74): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,38): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,38): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,38): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,38): warning C4244:             _Tp=float
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1244,38): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1249,33): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1249,33): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1249,33): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1249,33): warning C4244:             _Tp=float
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1249,33): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1250,36): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1250,36): warning C4244:         with
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1250,36): warning C4244:         [
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1250,36): warning C4244:             _Tp=float
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.h(1250,36): warning C4244:         ]
+  (compiling source file 'MyForm.cpp')
+  
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\MARWAN\toolBoxGUI\toolBoxGUI\MyForm.cpp(6,15): warning C4551: function call missing argument list
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+E:\MARWAN\study\ImageProcessing\opencv\opencv\build\include\opencv2\core\cuda.inl.hpp(113): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+E:\MARWAN\study\ImageProcessing\opencv\opencv\build\include\opencv2\core\cuda.inl.hpp(511): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  toolBoxGUI.vcxproj -> E:\MARWAN\toolBoxGUI\x64\Release\toolBoxGUI.exe

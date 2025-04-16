@@ -1,0 +1,6 @@
+E:\MARWAN\study\ImageProcessing\toolBoxGUI\toolBoxGUI\x64\Debug\toolBoxGUI.vcxproj.AssemblyReference.cache
+E:\MARWAN\study\ImageProcessing\toolBoxGUI\toolBoxGUI\x64\Debug\toolBoxGUI.MyForm.resources
+E:\MARWAN\study\ImageProcessing\toolBoxGUI\toolBoxGUI\x64\Debug\toolBoxGUI.vcxproj.GenerateResource.cache
+E:\MARWAN\toolBoxGUI\toolBoxGUI\x64\Debug\toolBoxGUI.vcxproj.AssemblyReference.cache
+E:\MARWAN\toolBoxGUI\toolBoxGUI\x64\Debug\toolBoxGUI.MyForm.resources
+E:\MARWAN\toolBoxGUI\toolBoxGUI\x64\Debug\toolBoxGUI.vcxproj.GenerateResource.cache
